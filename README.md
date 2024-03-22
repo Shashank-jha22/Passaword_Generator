@@ -28,3 +28,6 @@ Usage
     Click the "Generate Password" button to generate a new password.
     
     Click the "Copy" button to copy the generated password to the clipboard.
+
+
+![Screenshot 2024-03-22 221642](https://github.com/Shashank-jha22/Passaword_Generator/assets/132258792/eae0cfba-3e8a-4392-8d67-05d864a8e52d)
